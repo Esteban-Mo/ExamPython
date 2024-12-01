@@ -1,0 +1,41 @@
+date,produit,prix_unitaire,quantite,region,vendeur,temperature_moy,pluviometrie,ensoleillement
+2023-01-15,Ordinateur,999.99,5,Paris,Jean Dupont,10.5,50,12
+2023-01-15,Smartphone,599.99,10,Lyon,Marie Martin,12.2,45,14
+2023-01-15,Tablette,299.99,8,Marseille,Sophie Durand,11.8,55,13
+2023-01-15,Écouteurs,79.99,25,Bordeaux,Pierre Michel,13.1,40,15
+2023-01-16,Ordinateur,1099.99,3,Lyon,Jean Dupont,12.5,48,16
+2023-01-16,Smartphone,649.99,12,Paris,Marie Martin,14.3,42,18
+2023-01-16,Montre Connectée,199.99,15,Lille,Sophie Durand,13.7,52,17
+2023-01-17,Ordinateur,899.99,7,Marseille,Pierre Michel,15.2,44,19
+2023-01-17,Tablette,349.99,9,Toulouse,Jean Dupont,14.8,58,18
+2023-01-17,Écouteurs,89.99,30,Nantes,Marie Martin,16.3,46,20
+2023-02-01,Smartphone,549.99,18,Strasbourg,Sophie Durand,15.9,54,21
+2023-02-01,Montre Connectée,249.99,20,Paris,Pierre Michel,17.4,50,22
+2023-02-02,Ordinateur,1299.99,4,Lyon,Jean Dupont,16.8,56,23
+2023-02-02,Tablette,279.99,11,Bordeaux,Marie Martin,18.5,52,24
+2023-02-03,Écouteurs,69.99,40,Lille,Sophie Durand,19.1,48,25
+2023-02-03,Smartphone,699.99,8,Marseille,Pierre Michel,17.7,56,26
+2023-02-04,Montre Connectée,179.99,25,Toulouse,Jean Dupont,19.6,54,27
+2023-02-04,Ordinateur,949.99,6,Nantes,Marie Martin,21.2,52,28
+2023-02-05,Tablette,329.99,13,Strasbourg,Sophie Durand,20.2,52,28
+2023-02-05,Écouteurs,99.99,35,Paris,Pierre Michel,21.8,50,29
+2023-03-01,Smartphone,579.99,15,Lyon,Jean Dupont,21.4,58,30
+2023-03-01,Montre Connectée,229.99,22,Bordeaux,Marie Martin,23.1,56,31
+2023-03-02,Ordinateur,1199.99,5,Lille,Sophie Durand,22.7,58,32
+2023-03-02,Tablette,289.99,10,Marseille,Pierre Michel,24.4,54,33
+2023-03-03,Écouteurs,84.99,45,Toulouse,Jean Dupont,25.0,52,34
+2023-03-03,Smartphone,629.99,9,Nantes,Marie Martin,26.7,50,35
+2023-03-04,Montre Connectée,189.99,28,Strasbourg,Sophie Durand,26.3,50,36
+2023-03-04,Ordinateur,1049.99,4,Paris,Pierre Michel,28.0,48,37
+2023-03-05,Tablette,319.99,12,Lyon,Jean Dupont,29.7,56,38
+2023-03-05,Écouteurs,74.99,38,Bordeaux,Marie Martin,30.3,54,39
+2023-04-01,Smartphone,589.99,16,Lille,Sophie Durand,30.9,52,40
+2023-04-01,Montre Connectée,219.99,24,Marseille,Pierre Michel,32.6,50,41
+2023-04-02,Ordinateur,1149.99,6,Toulouse,Jean Dupont,31.2,52,42
+2023-04-02,Tablette,309.99,14,Nantes,Marie Martin,33.9,50,43
+2023-04-03,Écouteurs,94.99,42,Strasbourg,Sophie Durand,34.5,48,44
+2023-04-03,Smartphone,679.99,11,Paris,Pierre Michel,36.2,56,45
+2023-04-04,Montre Connectée,209.99,26,Lyon,Jean Dupont,35.8,54,46
+2023-04-04,Ordinateur,979.99,5,Bordeaux,Marie Martin,37.5,52,47
+2023-04-05,Tablette,339.99,15,Lille,Sophie Durand,36.1,52,48
+2023-04-05,Écouteurs,79.99,33,Marseille,Pierre Michel,37.7,50,49
